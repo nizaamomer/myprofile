@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @nizaamomer
-- 👀 I’m interested in Html, CSS, JS
+- 👀 I’m interested in Html, CSS, JS, Python, Boostrap, JQuery.
 - 🌱 I’m currently learning SQL Server and Python
 - 📫 How to reach me ...
 
